@@ -1,0 +1,22 @@
+body {
+    font-family: 'Rye', cursive;
+    color: black;
+    background-color: blanchedalmond;
+}
+
+h1 {
+    letter-spacing: 2px;
+    text-align: center;
+    border-radius: 5px;
+    background-color: coral;
+    width: 250px;
+    padding: 8px;
+    margin-left: 500px;
+}
+
+img {
+    border-radius: 35px;
+    margin-left: 15px;
+    width: 150px;
+    height: 250px;
+}
